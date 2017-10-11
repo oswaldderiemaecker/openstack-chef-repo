@@ -6,3 +6,5 @@ chef exec rake multinode
 
 On centos, unforce SELinux
 setenforce 0
+
+Install thin-provisioning-tools on controller
